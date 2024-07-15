@@ -1,9 +1,9 @@
 # ATMC0NS0LE
 This sophisticated ATM Console Application in C# showcases a robust cardHolder class designed to simulate essential banking operations. Perfectly crafted for tech enthusiasts and future engineers, this application highlights my ability to create secure, user-friendly financial software.
 
-**Features**
-User Authentication:
-Secure card number and PIN verification.
+**Features**:
+**User Authentication:
+**Secure card number and PIN verification.
 Banking Operations:
 Deposit: Add funds to the user's account.
 Withdraw: Subtract funds from the user's account, with balance checks to prevent overdrafts.
